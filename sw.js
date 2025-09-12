@@ -1,11 +1,10 @@
 const CACHE_NAME = 'buku-saku-v2';
 const urlsToCache = [
   '/',
-  '/index.html',
-  '/manifest.json',
-  '/assets/icon-192.png',
-  '/assets/icon-512.png',
-  // Tambahkan semua file statis yang ingin Anda cache
+  'index.html',
+  'manifest.json',
+  'assets/icon-192.png',
+  'assets/icon-512.png',
 ];
 
 self.addEventListener('install', (event) => {
