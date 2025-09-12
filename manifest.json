@@ -1,0 +1,21 @@
+{
+  "name": "Buku Saku Anggota — DV-Team NP",
+  "short_name": "Buku Saku",
+  "description": "Materi singkat, jelas, dan mudah diakses untuk semua anggota.",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a"
+}
